@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Start Exporting evernote notes"
-osascript "/Users/pengyu/Dropbox/Apps/WorkAutomation/Evernote/Export-All-Evernote-notes.scpt"
+osascript "/Users/pengyu/Dropbox/Apps/WorkAutomation/Evernote/Export-All-Evernote-notes.applescript"
 echo "Export done! The file has been saved to Dropbox"
 echo "Start compressing file"
 cd /Users/pengyu/Dropbox/Apps/Evernote
