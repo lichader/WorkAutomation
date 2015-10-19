@@ -6,7 +6,7 @@
     <string>com.rpeng.evernote.autobackup</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/pengyu/Dropbox/Apps/WorkAutomation/Evernote/evernote-backup.sh</string>
+        <string>/Users/rpeng/Dropbox/Apps/WorkAutomation/Evernote/evernote-backup.sh</string>
     </array>
     <key>StartCalendarInterval</key>
     <dict>

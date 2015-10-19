@@ -1,4 +1,4 @@
-set f to "/Users/pengyu/Dropbox/Apps/Evernote/Evernote-notes.enex"
+set f to "/Users/rpeng/Dropbox/Apps/Evernote/Evernote-notes.enex"
 -- set archiveName to "Evernote backup on " & (do shell script "date +%m-%d-%Y" & ".tar.gz ")
 
 with timeout of (60 * 60) seconds
