@@ -10,7 +10,7 @@
     </array>
     <key>StartCalendarInterval</key>
     <dict>
-        <key>Weekday</key>
+        <key>Day</key>
         <integer>1</integer>
     </dict>
 </dict>
